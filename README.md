@@ -47,7 +47,7 @@ Assets/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/flappy-bird-unity.git
+   git clone https://github.com/abhiruppauliitkgp/Flappy-Bird-Game-Unity.git
    ```
 2. Open the project in **Unity Hub** (tested on Unity 2021.3 LTS or later, 2D template).
 3. Open the main scene from `Assets/Scenes/`.
