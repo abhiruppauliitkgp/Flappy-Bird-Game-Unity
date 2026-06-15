@@ -35,6 +35,9 @@ Assets/
 └── Scenes/
 ```
 
+<img width="1918" height="933" alt="Pipes Formation " src="https://github.com/user-attachments/assets/02737e47-7940-4b06-80b4-99680387ce84" />
+
+
 ## How It Works
 
 - **GameManager** is a singleton that controls the overall game state. On `Play()`, it resets the score, resumes time scale, clears existing pipes, and enables the Player and Spawner. On `GameOver()` / `Pause()`, it stops time, disables player input, and stops pipe spawning.
@@ -60,6 +63,14 @@ Assets/
 | Jump / Flap | `Spacebar` or `Left Mouse Click` |
 | Start Game | Click **Play** button |
 | Retry | Click **Play** button after Game Over |
+
+
+
+
+https://github.com/user-attachments/assets/a10d971f-5ddf-49fe-8fd8-ef3de39dc67f
+
+
+
 
 ## Credits
 
